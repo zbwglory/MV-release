@@ -15,7 +15,7 @@ To install ffmpeg and opencv. We follow the guide on http://www.ozbotz.org/openc
     **Note** The time reported in the paper is calculated without I/O, which means without the time of writing dump file and images to disk.
 
 - The MV-code-release folder is created using eclipse.
-If you find any questions in this caffe version and motion vector code, please contact me: 1023zhangbowen@tongji.edu.cn
+If you find any questions in this motion vector code, please contact me: 1023zhangbowen@tongji.edu.cn
 
 Best regards,
 Bowen
