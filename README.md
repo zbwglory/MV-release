@@ -22,10 +22,11 @@ Bowen
 
 Please cite our paper in your publications if it helps your research:
 
-@inproceedings{ZhangWWQW16,
-author    = {Bowen Zhang and Limin Wang and Zhe Wang and Yu Qiao and Hanli Wang},
-title     = {Real-time Action Recognition with Enhanced Motion Vector CNNs},
-booktitle = {CVPR},
-year      = {2016},
-pages     = {2718-2726},
-}
+
+    @inproceedings{ZhangWWQW16,
+      author    = {Bowen Zhang and Limin Wang and Zhe Wang and Yu Qiao and Hanli Wang},
+      title     = {Real-time Action Recognition with Enhanced Motion Vector CNNs},
+      booktitle = {CVPR},
+      year      = {2016},
+      pages     = {2718-2726}
+    }
