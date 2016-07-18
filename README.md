@@ -32,3 +32,5 @@ Please cite our paper in your publications if it helps your research:
       year      = {2016},
       pages     = {2718-2726}
     }
+
+This code is distributed under MIT LICENSE
