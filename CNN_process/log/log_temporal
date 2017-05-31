@@ -1,0 +1,301 @@
+## Note: This is part of the log that I ran fast_classification_UCF101_temporal.m on UCF101 split1
+
+Time (w/o I/O) of processing 250 optical frames: 0.19381
+2/2 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16804
+3/3 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16561
+4/4 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16585
+5/5 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.165
+6/6 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.18923
+7/7 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.17
+8/8 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16747
+9/9 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16777
+10/10 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16987
+11/11 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16733
+12/12 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16848
+13/13 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16698
+14/14 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.16693
+15/15 1 1 1.000000
+Time (w/o I/O) of processing 250 optical frames: 0.19197
+15/16 20 1 0.937500
+Time (w/o I/O) of processing 250 optical frames: 0.1738
+16/17 1 1 0.941176
+Time (w/o I/O) of processing 250 optical frames: 0.16978
+17/18 1 1 0.944444
+Time (w/o I/O) of processing 250 optical frames: 0.1678
+18/19 1 1 0.947368
+Time (w/o I/O) of processing 250 optical frames: 0.16712
+19/20 1 1 0.950000
+Time (w/o I/O) of processing 250 optical frames: 0.20009
+20/21 1 1 0.952381
+Time (w/o I/O) of processing 250 optical frames: 0.16667
+21/22 1 1 0.954545
+Time (w/o I/O) of processing 250 optical frames: 0.16327
+22/23 1 1 0.956522
+Time (w/o I/O) of processing 250 optical frames: 0.16572
+23/24 1 1 0.958333
+Time (w/o I/O) of processing 250 optical frames: 0.21035
+24/25 1 1 0.960000
+Time (w/o I/O) of processing 250 optical frames: 0.20778
+25/26 1 1 0.961538
+Time (w/o I/O) of processing 250 optical frames: 0.18896
+26/27 1 1 0.962963
+Time (w/o I/O) of processing 250 optical frames: 0.16878
+27/28 1 1 0.964286
+Time (w/o I/O) of processing 250 optical frames: 0.16788
+28/29 1 1 0.965517
+Time (w/o I/O) of processing 250 optical frames: 0.16873
+29/30 1 1 0.966667
+Time (w/o I/O) of processing 250 optical frames: 0.1661
+30/31 1 1 0.967742
+Time (w/o I/O) of processing 250 optical frames: 0.16591
+31/32 1 1 0.968750
+Time (w/o I/O) of processing 250 optical frames: 0.16202
+32/33 1 1 0.969697
+Time (w/o I/O) of processing 250 optical frames: 0.16293
+33/34 1 1 0.970588
+Time (w/o I/O) of processing 250 optical frames: 0.16273
+34/35 1 1 0.971429
+Time (w/o I/O) of processing 250 optical frames: 0.1655
+35/36 1 1 0.972222
+Time (w/o I/O) of processing 250 optical frames: 0.16521
+36/37 1 1 0.972973
+Time (w/o I/O) of processing 250 optical frames: 0.16681
+37/38 1 1 0.973684
+Time (w/o I/O) of processing 250 optical frames: 0.16616
+38/39 1 1 0.974359
+Time (w/o I/O) of processing 250 optical frames: 0.1671
+39/40 1 1 0.975000
+Time (w/o I/O) of processing 250 optical frames: 0.16552
+40/41 1 1 0.975610
+Time (w/o I/O) of processing 250 optical frames: 0.16629
+41/42 1 1 0.976190
+Time (w/o I/O) of processing 250 optical frames: 0.16619
+41/43 95 1 0.953488
+Time (w/o I/O) of processing 250 optical frames: 0.16532
+41/44 34 1 0.931818
+Time (w/o I/O) of processing 250 optical frames: 0.16563
+42/45 2 2 0.933333
+Time (w/o I/O) of processing 250 optical frames: 0.16595
+43/46 2 2 0.934783
+Time (w/o I/O) of processing 250 optical frames: 0.16449
+44/47 2 2 0.936170
+Time (w/o I/O) of processing 250 optical frames: 0.16201
+45/48 2 2 0.937500
+Time (w/o I/O) of processing 250 optical frames: 0.16244
+46/49 2 2 0.938776
+Time (w/o I/O) of processing 250 optical frames: 0.16954
+47/50 2 2 0.940000
+Time (w/o I/O) of processing 250 optical frames: 0.16709
+48/51 2 2 0.941176
+Time (w/o I/O) of processing 250 optical frames: 0.1682
+49/52 2 2 0.942308
+Time (w/o I/O) of processing 250 optical frames: 0.16724
+50/53 2 2 0.943396
+Time (w/o I/O) of processing 250 optical frames: 0.16677
+51/54 2 2 0.944444
+Time (w/o I/O) of processing 250 optical frames: 0.16611
+52/55 2 2 0.945455
+Time (w/o I/O) of processing 250 optical frames: 0.19599
+53/56 2 2 0.946429
+Time (w/o I/O) of processing 250 optical frames: 0.18015
+54/57 2 2 0.947368
+Time (w/o I/O) of processing 250 optical frames: 0.16753
+55/58 2 2 0.948276
+Time (w/o I/O) of processing 250 optical frames: 0.16597
+56/59 2 2 0.949153
+Time (w/o I/O) of processing 250 optical frames: 0.16584
+56/60 1 2 0.933333
+Time (w/o I/O) of processing 250 optical frames: 0.16752
+57/61 2 2 0.934426
+Time (w/o I/O) of processing 250 optical frames: 0.16313
+57/62 1 2 0.919355
+Time (w/o I/O) of processing 250 optical frames: 0.1631
+58/63 2 2 0.920635
+Time (w/o I/O) of processing 250 optical frames: 0.16356
+59/64 2 2 0.921875
+Time (w/o I/O) of processing 250 optical frames: 0.16452
+60/65 2 2 0.923077
+Time (w/o I/O) of processing 250 optical frames: 0.16557
+60/66 1 2 0.909091
+Time (w/o I/O) of processing 250 optical frames: 0.16781
+61/67 2 2 0.910448
+Time (w/o I/O) of processing 250 optical frames: 0.16706
+62/68 2 2 0.911765
+Time (w/o I/O) of processing 250 optical frames: 0.16704
+63/69 2 2 0.913043
+Time (w/o I/O) of processing 250 optical frames: 0.16607
+64/70 2 2 0.914286
+Time (w/o I/O) of processing 250 optical frames: 0.16677
+65/71 2 2 0.915493
+Time (w/o I/O) of processing 250 optical frames: 0.16529
+66/72 2 2 0.916667
+Time (w/o I/O) of processing 250 optical frames: 0.16645
+67/73 2 2 0.917808
+Time (w/o I/O) of processing 250 optical frames: 0.16679
+68/74 2 2 0.918919
+Time (w/o I/O) of processing 250 optical frames: 0.16563
+69/75 2 2 0.920000
+Time (w/o I/O) of processing 250 optical frames: 0.16766
+70/76 2 2 0.921053
+Time (w/o I/O) of processing 250 optical frames: 0.16611
+71/77 3 3 0.922078
+Time (w/o I/O) of processing 250 optical frames: 0.16602
+71/78 61 3 0.910256
+Time (w/o I/O) of processing 250 optical frames: 0.19597
+72/79 3 3 0.911392
+Time (w/o I/O) of processing 250 optical frames: 0.20686
+73/80 3 3 0.912500
+Time (w/o I/O) of processing 250 optical frames: 0.16793
+73/81 44 3 0.901235
+Time (w/o I/O) of processing 250 optical frames: 0.16643
+73/82 44 3 0.890244
+Time (w/o I/O) of processing 250 optical frames: 0.16648
+74/83 3 3 0.891566
+Time (w/o I/O) of processing 250 optical frames: 0.16811
+75/84 3 3 0.892857
+Time (w/o I/O) of processing 250 optical frames: 0.16661
+76/85 3 3 0.894118
+Time (w/o I/O) of processing 250 optical frames: 0.16437
+77/86 3 3 0.895349
+Time (w/o I/O) of processing 250 optical frames: 0.16247
+78/87 3 3 0.896552
+Time (w/o I/O) of processing 250 optical frames: 0.16573
+79/88 3 3 0.897727
+Time (w/o I/O) of processing 250 optical frames: 0.16389
+80/89 3 3 0.898876
+Time (w/o I/O) of processing 250 optical frames: 0.1927
+81/90 3 3 0.900000
+Time (w/o I/O) of processing 250 optical frames: 0.20673
+82/91 3 3 0.901099
+Time (w/o I/O) of processing 250 optical frames: 0.20684
+82/92 34 3 0.891304
+Time (w/o I/O) of processing 250 optical frames: 0.2055
+82/93 16 3 0.881720
+Time (w/o I/O) of processing 250 optical frames: 0.20279
+82/94 16 3 0.872340
+Time (w/o I/O) of processing 250 optical frames: 0.20886
+83/95 3 3 0.873684
+Time (w/o I/O) of processing 250 optical frames: 0.20943
+84/96 3 3 0.875000
+Time (w/o I/O) of processing 250 optical frames: 0.20543
+85/97 3 3 0.876289
+Time (w/o I/O) of processing 250 optical frames: 0.20962
+86/98 3 3 0.877551
+Time (w/o I/O) of processing 250 optical frames: 0.17773
+87/99 3 3 0.878788
+Time (w/o I/O) of processing 250 optical frames: 0.16664
+88/100 3 3 0.880000
+Time (w/o I/O) of processing 250 optical frames: 0.16554
+88/101 100 3 0.871287
+Time (w/o I/O) of processing 250 optical frames: 0.16722
+88/102 100 3 0.862745
+Time (w/o I/O) of processing 250 optical frames: 0.16658
+88/103 100 3 0.854369
+Time (w/o I/O) of processing 250 optical frames: 0.16372
+89/104 3 3 0.855769
+Time (w/o I/O) of processing 250 optical frames: 0.16395
+90/105 3 3 0.857143
+Time (w/o I/O) of processing 250 optical frames: 0.16438
+91/106 3 3 0.858491
+Time (w/o I/O) of processing 250 optical frames: 0.16351
+92/107 3 3 0.859813
+Time (w/o I/O) of processing 250 optical frames: 0.16335
+93/108 3 3 0.861111
+Time (w/o I/O) of processing 250 optical frames: 0.16485
+93/109 86 3 0.853211
+Time (w/o I/O) of processing 250 optical frames: 0.16715
+94/110 3 3 0.854545
+Time (w/o I/O) of processing 250 optical frames: 0.16921
+95/111 3 3 0.855856
+Time (w/o I/O) of processing 250 optical frames: 0.16617
+96/112 3 3 0.857143
+Time (w/o I/O) of processing 250 optical frames: 0.16845
+96/113 88 3 0.849558
+Time (w/o I/O) of processing 250 optical frames: 0.16465
+97/114 3 3 0.850877
+Time (w/o I/O) of processing 250 optical frames: 0.16599
+98/115 3 3 0.852174
+Time (w/o I/O) of processing 250 optical frames: 0.1663
+99/116 3 3 0.853448
+Time (w/o I/O) of processing 250 optical frames: 0.16507
+99/117 13 3 0.846154
+Time (w/o I/O) of processing 250 optical frames: 0.16651
+100/118 4 4 0.847458
+Time (w/o I/O) of processing 250 optical frames: 0.16472
+101/119 4 4 0.848739
+Time (w/o I/O) of processing 250 optical frames: 0.16349
+102/120 4 4 0.850000
+Time (w/o I/O) of processing 250 optical frames: 0.16419
+102/121 78 4 0.842975
+Time (w/o I/O) of processing 250 optical frames: 0.1973
+103/122 4 4 0.844262
+Time (w/o I/O) of processing 250 optical frames: 0.16665
+104/123 4 4 0.845528
+Time (w/o I/O) of processing 250 optical frames: 0.16468
+105/124 4 4 0.846774
+Time (w/o I/O) of processing 250 optical frames: 0.16447
+106/125 4 4 0.848000
+Time (w/o I/O) of processing 250 optical frames: 0.16499
+107/126 4 4 0.849206
+Time (w/o I/O) of processing 250 optical frames: 0.1637
+108/127 4 4 0.850394
+Time (w/o I/O) of processing 250 optical frames: 0.16313
+109/128 4 4 0.851562
+Time (w/o I/O) of processing 250 optical frames: 0.16739
+110/129 4 4 0.852713
+Time (w/o I/O) of processing 250 optical frames: 0.16592
+111/130 4 4 0.853846
+Time (w/o I/O) of processing 250 optical frames: 0.16702
+112/131 4 4 0.854962
+Time (w/o I/O) of processing 250 optical frames: 0.16666
+113/132 4 4 0.856061
+Time (w/o I/O) of processing 250 optical frames: 0.16601
+114/133 4 4 0.857143
+Time (w/o I/O) of processing 250 optical frames: 0.16693
+115/134 4 4 0.858209
+Time (w/o I/O) of processing 250 optical frames: 0.16857
+116/135 4 4 0.859259
+Time (w/o I/O) of processing 250 optical frames: 0.17002
+117/136 4 4 0.860294
+Time (w/o I/O) of processing 250 optical frames: 0.1647
+118/137 4 4 0.861314
+Time (w/o I/O) of processing 250 optical frames: 0.16542
+119/138 4 4 0.862319
+Time (w/o I/O) of processing 250 optical frames: 0.16613
+120/139 4 4 0.863309
+Time (w/o I/O) of processing 250 optical frames: 0.16618
+121/140 4 4 0.864286
+Time (w/o I/O) of processing 250 optical frames: 0.16622
+122/141 4 4 0.865248
+Time (w/o I/O) of processing 250 optical frames: 0.16276
+123/142 4 4 0.866197
+Time (w/o I/O) of processing 250 optical frames: 0.16492
+124/143 4 4 0.867133
+Time (w/o I/O) of processing 250 optical frames: 0.16214
+124/144 16 4 0.861111
+Time (w/o I/O) of processing 250 optical frames: 0.16505
+125/145 4 4 0.862069
+Time (w/o I/O) of processing 250 optical frames: 0.20284
+126/146 4 4 0.863014
+Time (w/o I/O) of processing 250 optical frames: 0.16698
+127/147 4 4 0.863946
+Time (w/o I/O) of processing 250 optical frames: 0.16472
+128/148 4 4 0.864865
+Time (w/o I/O) of processing 250 optical frames: 0.16327
+129/149 4 4 0.865772
+Time (w/o I/O) of processing 250 optical frames: 0.16281
+130/150 4 4 0.866667
+

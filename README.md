@@ -1,6 +1,4 @@
-Dear all,
-
-This is the code we used to extract Motion Vector from Videos.
+This is the code for testing part of our CVPR code and etc..
 To run the code, you need to install ffmpeg and opencv 2.4.11.
 
 We have attached a modified version of ffmpeg 2.7.2 on the code package.
@@ -15,7 +13,16 @@ To install ffmpeg and opencv. We follow the guide on http://www.ozbotz.org/openc
     **Note** The time reported in the paper is calculated without I/O, which means without the time of writing dump file and images to disk.
 
 - The MV-code-release folder is created using eclipse.
-If you find any questions in this motion vector code, please contact me: 1023zhangbowen@tongji.edu.cn
+
+The model of UCF-101 is released (both spatial part and motion vector part).
+Motion vector model for UCF-101 split1: http://mmlab.siat.ac.cn/DTEMV-CNN/models/temporal_UCF101_list01.caffemodel
+Motion vector model for UCF-101 split2: http://mmlab.siat.ac.cn/DTEMV-CNN/models/temporal_UCF101_list02.caffemodel
+Motion vector model for UCF-101 split3: http://mmlab.siat.ac.cn/DTEMV-CNN/models/temporal_UCF101_list03.caffemodel
+Spatial model for UCF-101 split1: http://mmlab.siat.ac.cn/DTEMV-CNN/models/spatial_UCF101_list01.caffemodel
+Spatial model for UCF-101 split2: http://mmlab.siat.ac.cn/DTEMV-CNN/models/spatial_UCF101_list02.caffemodel
+Spatial model for UCF-101 split3: http://mmlab.siat.ac.cn/DTEMV-CNN/models/spatial_UCF101_list03.caffemodel
+
+If you find any questions in this motion vector CNN code, please contact me: 1023zhangbowen@tongji.edu.cn
 
 Best regards,
 

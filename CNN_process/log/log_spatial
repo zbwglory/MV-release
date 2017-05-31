@@ -1,0 +1,240 @@
+## Note: This is part of the log that I ran fast_classification_UCF101_spatial.m on UCF101 split1
+
+Time (w/o I/O) of processing 25 rgb frames: 0.093468
+0/2 34 1 0.000000
+Time (w/o I/O) of processing 25 rgb frames: 0.097705
+0/3 2 1 0.000000
+Time (w/o I/O) of processing 25 rgb frames: 0.097931
+0/4 2 1 0.000000
+Time (w/o I/O) of processing 25 rgb frames: 0.09806
+0/5 2 1 0.000000
+Time (w/o I/O) of processing 25 rgb frames: 0.098801
+0/6 2 1 0.000000
+Time (w/o I/O) of processing 25 rgb frames: 0.099377
+1/7 1 1 0.142857
+Time (w/o I/O) of processing 25 rgb frames: 0.097977
+2/8 1 1 0.250000
+Time (w/o I/O) of processing 25 rgb frames: 0.097734
+3/9 1 1 0.333333
+Time (w/o I/O) of processing 25 rgb frames: 0.099671
+3/10 2 1 0.300000
+Time (w/o I/O) of processing 25 rgb frames: 0.098025
+4/11 1 1 0.363636
+Time (w/o I/O) of processing 25 rgb frames: 0.098257
+4/12 2 1 0.333333
+Time (w/o I/O) of processing 25 rgb frames: 0.098112
+5/13 1 1 0.384615
+Time (w/o I/O) of processing 25 rgb frames: 0.098656
+5/14 2 1 0.357143
+Time (w/o I/O) of processing 25 rgb frames: 0.098
+6/15 1 1 0.400000
+Time (w/o I/O) of processing 25 rgb frames: 0.098462
+6/16 20 1 0.375000
+Time (w/o I/O) of processing 25 rgb frames: 0.09952
+7/17 1 1 0.411765
+Time (w/o I/O) of processing 25 rgb frames: 0.098245
+8/18 1 1 0.444444
+Time (w/o I/O) of processing 25 rgb frames: 0.098566
+9/19 1 1 0.473684
+Time (w/o I/O) of processing 25 rgb frames: 0.098244
+10/20 1 1 0.500000
+Time (w/o I/O) of processing 25 rgb frames: 0.098159
+10/21 2 1 0.476190
+Time (w/o I/O) of processing 25 rgb frames: 0.098056
+11/22 1 1 0.500000
+Time (w/o I/O) of processing 25 rgb frames: 0.098657
+12/23 1 1 0.521739
+Time (w/o I/O) of processing 25 rgb frames: 0.098152
+13/24 1 1 0.541667
+Time (w/o I/O) of processing 25 rgb frames: 0.098433
+14/25 1 1 0.560000
+Time (w/o I/O) of processing 25 rgb frames: 0.098496
+15/26 1 1 0.576923
+Time (w/o I/O) of processing 25 rgb frames: 0.097925
+16/27 1 1 0.592593
+Time (w/o I/O) of processing 25 rgb frames: 0.098807
+17/28 1 1 0.607143
+Time (w/o I/O) of processing 25 rgb frames: 0.098635
+18/29 1 1 0.620690
+Time (w/o I/O) of processing 25 rgb frames: 0.098575
+18/30 34 1 0.600000
+Time (w/o I/O) of processing 25 rgb frames: 0.09801
+18/31 2 1 0.580645
+Time (w/o I/O) of processing 25 rgb frames: 0.098006
+18/32 2 1 0.562500
+Time (w/o I/O) of processing 25 rgb frames: 0.09759
+18/33 2 1 0.545455
+Time (w/o I/O) of processing 25 rgb frames: 0.098282
+18/34 2 1 0.529412
+Time (w/o I/O) of processing 25 rgb frames: 0.098127
+18/35 2 1 0.514286
+Time (w/o I/O) of processing 25 rgb frames: 0.099006
+18/36 2 1 0.500000
+Time (w/o I/O) of processing 25 rgb frames: 0.098438
+18/37 2 1 0.486486
+Time (w/o I/O) of processing 25 rgb frames: 0.098359
+18/38 62 1 0.473684
+Time (w/o I/O) of processing 25 rgb frames: 0.097846
+19/39 1 1 0.487179
+Time (w/o I/O) of processing 25 rgb frames: 0.098315
+20/40 1 1 0.500000
+Time (w/o I/O) of processing 25 rgb frames: 0.097506
+21/41 1 1 0.512195
+Time (w/o I/O) of processing 25 rgb frames: 0.098966
+22/42 1 1 0.523810
+Time (w/o I/O) of processing 25 rgb frames: 0.09926
+23/43 1 1 0.534884
+Time (w/o I/O) of processing 25 rgb frames: 0.098307
+24/44 1 1 0.545455
+Time (w/o I/O) of processing 25 rgb frames: 0.098317
+25/45 2 2 0.555556
+Time (w/o I/O) of processing 25 rgb frames: 0.0986
+26/46 2 2 0.565217
+Time (w/o I/O) of processing 25 rgb frames: 0.097977
+27/47 2 2 0.574468
+Time (w/o I/O) of processing 25 rgb frames: 0.098058
+28/48 2 2 0.583333
+Time (w/o I/O) of processing 25 rgb frames: 0.098896
+29/49 2 2 0.591837
+Time (w/o I/O) of processing 25 rgb frames: 0.099244
+30/50 2 2 0.600000
+Time (w/o I/O) of processing 25 rgb frames: 0.098213
+31/51 2 2 0.607843
+Time (w/o I/O) of processing 25 rgb frames: 0.098155
+32/52 2 2 0.615385
+Time (w/o I/O) of processing 25 rgb frames: 0.097758
+33/53 2 2 0.622642
+Time (w/o I/O) of processing 25 rgb frames: 0.098191
+33/54 1 2 0.611111
+Time (w/o I/O) of processing 25 rgb frames: 0.098436
+33/55 1 2 0.600000
+Time (w/o I/O) of processing 25 rgb frames: 0.097681
+33/56 20 2 0.589286
+Time (w/o I/O) of processing 25 rgb frames: 0.098207
+33/57 20 2 0.578947
+Time (w/o I/O) of processing 25 rgb frames: 0.098307
+34/58 2 2 0.586207
+Time (w/o I/O) of processing 25 rgb frames: 0.1029
+35/59 2 2 0.593220
+Time (w/o I/O) of processing 25 rgb frames: 0.10238
+36/60 2 2 0.600000
+Time (w/o I/O) of processing 25 rgb frames: 0.10019
+37/61 2 2 0.606557
+Time (w/o I/O) of processing 25 rgb frames: 0.10028
+38/62 2 2 0.612903
+Time (w/o I/O) of processing 25 rgb frames: 0.10026
+38/63 78 2 0.603175
+Time (w/o I/O) of processing 25 rgb frames: 0.10055
+38/64 78 2 0.593750
+Time (w/o I/O) of processing 25 rgb frames: 0.10017
+38/65 78 2 0.584615
+Time (w/o I/O) of processing 25 rgb frames: 0.10027
+38/66 78 2 0.575758
+Time (w/o I/O) of processing 25 rgb frames: 0.099908
+38/67 78 2 0.567164
+Time (w/o I/O) of processing 25 rgb frames: 0.10015
+39/68 2 2 0.573529
+Time (w/o I/O) of processing 25 rgb frames: 0.10055
+40/69 2 2 0.579710
+Time (w/o I/O) of processing 25 rgb frames: 0.10117
+41/70 2 2 0.585714
+Time (w/o I/O) of processing 25 rgb frames: 0.10029
+42/71 2 2 0.591549
+Time (w/o I/O) of processing 25 rgb frames: 0.10045
+43/72 2 2 0.597222
+Time (w/o I/O) of processing 25 rgb frames: 0.10021
+44/73 2 2 0.602740
+Time (w/o I/O) of processing 25 rgb frames: 0.11233
+45/74 2 2 0.608108
+Time (w/o I/O) of processing 25 rgb frames: 0.11387
+46/75 2 2 0.613333
+Time (w/o I/O) of processing 25 rgb frames: 0.099948
+47/76 2 2 0.618421
+Time (w/o I/O) of processing 25 rgb frames: 0.1005
+47/77 90 3 0.610390
+Time (w/o I/O) of processing 25 rgb frames: 0.099953
+47/78 90 3 0.602564
+Time (w/o I/O) of processing 25 rgb frames: 0.0984
+48/79 3 3 0.607595
+Time (w/o I/O) of processing 25 rgb frames: 0.098338
+48/80 90 3 0.600000
+Time (w/o I/O) of processing 25 rgb frames: 0.098042
+49/81 3 3 0.604938
+Time (w/o I/O) of processing 25 rgb frames: 0.098922
+50/82 3 3 0.609756
+Time (w/o I/O) of processing 25 rgb frames: 0.098906
+50/83 90 3 0.602410
+Time (w/o I/O) of processing 25 rgb frames: 0.099126
+51/84 3 3 0.607143
+Time (w/o I/O) of processing 25 rgb frames: 0.098348
+52/85 3 3 0.611765
+Time (w/o I/O) of processing 25 rgb frames: 0.098355
+53/86 3 3 0.616279
+Time (w/o I/O) of processing 25 rgb frames: 0.098412
+54/87 3 3 0.620690
+Time (w/o I/O) of processing 25 rgb frames: 0.098925
+55/88 3 3 0.625000
+Time (w/o I/O) of processing 25 rgb frames: 0.098833
+56/89 3 3 0.629213
+Time (w/o I/O) of processing 25 rgb frames: 0.098614
+57/90 3 3 0.633333
+Time (w/o I/O) of processing 25 rgb frames: 0.09878
+57/91 33 3 0.626374
+Time (w/o I/O) of processing 25 rgb frames: 0.099003
+58/92 3 3 0.630435
+Time (w/o I/O) of processing 25 rgb frames: 0.098995
+58/93 56 3 0.623656
+Time (w/o I/O) of processing 25 rgb frames: 0.098552
+59/94 3 3 0.627660
+Time (w/o I/O) of processing 25 rgb frames: 0.098666
+60/95 3 3 0.631579
+Time (w/o I/O) of processing 25 rgb frames: 0.098845
+61/96 3 3 0.635417
+Time (w/o I/O) of processing 25 rgb frames: 0.09872
+62/97 3 3 0.639175
+Time (w/o I/O) of processing 25 rgb frames: 0.099216
+63/98 3 3 0.642857
+Time (w/o I/O) of processing 25 rgb frames: 0.097961
+64/99 3 3 0.646465
+Time (w/o I/O) of processing 25 rgb frames: 0.099079
+65/100 3 3 0.650000
+Time (w/o I/O) of processing 25 rgb frames: 0.098665
+66/101 3 3 0.653465
+Time (w/o I/O) of processing 25 rgb frames: 0.09836
+67/102 3 3 0.656863
+Time (w/o I/O) of processing 25 rgb frames: 0.09739
+68/103 3 3 0.660194
+Time (w/o I/O) of processing 25 rgb frames: 0.098458
+68/104 81 3 0.653846
+Time (w/o I/O) of processing 25 rgb frames: 0.098066
+68/105 81 3 0.647619
+Time (w/o I/O) of processing 25 rgb frames: 0.098499
+68/106 56 3 0.641509
+Time (w/o I/O) of processing 25 rgb frames: 0.098293
+68/107 61 3 0.635514
+Time (w/o I/O) of processing 25 rgb frames: 0.0987
+68/108 56 3 0.629630
+Time (w/o I/O) of processing 25 rgb frames: 0.099241
+68/109 35 3 0.623853
+Time (w/o I/O) of processing 25 rgb frames: 0.098454
+68/110 35 3 0.618182
+Time (w/o I/O) of processing 25 rgb frames: 0.099092
+68/111 56 3 0.612613
+Time (w/o I/O) of processing 25 rgb frames: 0.098699
+68/112 79 3 0.607143
+Time (w/o I/O) of processing 25 rgb frames: 0.098186
+68/113 79 3 0.601770
+Time (w/o I/O) of processing 25 rgb frames: 0.099155
+68/114 83 3 0.596491
+Time (w/o I/O) of processing 25 rgb frames: 0.098465
+68/115 79 3 0.591304
+Time (w/o I/O) of processing 25 rgb frames: 0.098449
+68/116 79 3 0.586207
+Time (w/o I/O) of processing 25 rgb frames: 0.098816
+68/117 79 3 0.581197
+Time (w/o I/O) of processing 25 rgb frames: 0.097643
+69/118 4 4 0.584746
+Time (w/o I/O) of processing 25 rgb frames: 0.098452
+70/119 4 4 0.588235
+Time (w/o I/O) of processing 25 rgb frames: 0.098323
+71/120 4 4 0.591667
