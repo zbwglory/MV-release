@@ -41,7 +41,7 @@ for i=1:25:size(filename)
       t_io = etime(t3,t2) + t_io;
 
 	  im_data_ori(:,:,:,j+1) = im(:,:,:);
-      im_data_mirror(:,:,:,j+1) = im(end:-1:1,:,:);
+%      im_data_mirror(:,:,:,j+1) = im(end:-1:1,:,:);
 	end
     end
 
