@@ -18,7 +18,7 @@ To install ffmpeg and opencv. We follow the guide on http://www.ozbotz.org/openc
 The model of UCF-101 is released (both spatial part and motion vector part).
 1. Motion vector model and Spatial Model for UCF-101 split1, split2, and split3 can be found on: https://drive.google.com/drive/folders/1RXXAauI_inR1KvO8ygQmeNBBKRbj3xDJ?usp=sharing
 
-If you find any questions in this motion vector CNN code, please contact me: --1023zhangbowen@tongji.edu.cn-- Please use zbwglory@gmail.com instead.
+If you find any questions in this motion vector CNN code, please contact me: ~~1023zhangbowen@tongji.edu.cn~~ zbwglory@gmail.com.
 
 Best regards,
 
