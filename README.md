@@ -16,14 +16,9 @@ To install ffmpeg and opencv. We follow the guide on http://www.ozbotz.org/openc
 - The MV-code-release folder is created using eclipse.
 
 The model of UCF-101 is released (both spatial part and motion vector part).
-1. Motion vector model for UCF-101 split1: http://mmlab.siat.ac.cn/DTEMV-CNN/models/temporal_UCF101_list01.caffemodel
-2. Motion vector model for UCF-101 split2: http://mmlab.siat.ac.cn/DTEMV-CNN/models/temporal_UCF101_list02.caffemodel
-3. Motion vector model for UCF-101 split3: http://mmlab.siat.ac.cn/DTEMV-CNN/models/temporal_UCF101_list03.caffemodel
-4. Spatial model for UCF-101 split1: http://mmlab.siat.ac.cn/DTEMV-CNN/models/spatial_UCF101_list01.caffemodel
-5. Spatial model for UCF-101 split2: http://mmlab.siat.ac.cn/DTEMV-CNN/models/spatial_UCF101_list02.caffemodel
-6. Spatial model for UCF-101 split3: http://mmlab.siat.ac.cn/DTEMV-CNN/models/spatial_UCF101_list03.caffemodel
+1. Motion vector model and Spatial Model for UCF-101 split1, split2, and split3 can be found on: https://drive.google.com/drive/folders/1RXXAauI_inR1KvO8ygQmeNBBKRbj3xDJ?usp=sharing
 
-If you find any questions in this motion vector CNN code, please contact me: 1023zhangbowen@tongji.edu.cn
+If you find any questions in this motion vector CNN code, please contact me: --1023zhangbowen@tongji.edu.cn-- Please use zbwglory@gmail.com instead.
 
 Best regards,
 
