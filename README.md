@@ -8,7 +8,7 @@ To install ffmpeg and opencv. We follow the guide on http://www.ozbotz.org/openc
 
 **Note** This is a third-party website. We have no control of the content on this website. Please use the content carefully.
 
-- For extracting Motion Vector image, you can run the extract_mvs_sample.sh. The code is designed for the videos with resolution of 340 * 256 (width * height). If you need to extract motion vector from different resolution, you can modified **line 56-57 of draw_flow.cpp from MV-code-release folder** to the desired resolution.
+- For extracting Motion Vector image, you can run the extract_mvs_sample.sh. The code is designed for the videos with resolution of 320 * 240 (width * height). If you need to extract motion vector from different resolution, you can modified **line 55-56 of draw_flow.cpp from MV-code-release folder** to the desired resolution.
 
 
     **Note** The time reported in the paper is calculated without I/O, which means without the time of writing dump file and images to disk.
